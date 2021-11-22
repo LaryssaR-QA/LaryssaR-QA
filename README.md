@@ -23,6 +23,6 @@
  	<a href="https://open.spotify.com/user/227mrnwy6lumbyggnid74obrq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
  
-  ![Snake animation](https://github.com/LaryssaR-QA/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LaryssaR-QA//LaryssaR-QA/blob/output/github-contribution-grid-snake.svg)
  
 </div>
