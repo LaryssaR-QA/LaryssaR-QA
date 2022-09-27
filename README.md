@@ -1,4 +1,6 @@
-## Oiii eu sou a Laryssa Ribeiro, e estou aprendendo a realizar testes automáticos
+## Oi eu sou a Lary quality assurance e este é meu portfólio! 
+Os projetos presentes aqui são práticas que me orientam para novos aprendizados.
+
 <div align="center">
   <a href="https://github.com/LaryssaR-QA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaryssaR-QA&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
