@@ -1,4 +1,4 @@
-## Oi eu sou a Lary quality assurance e este é meu portfólio! 
+## Oi eu sou a Lary QA e este é meu portfólio! 
 Os projetos presentes aqui são práticas que me orientam para novos aprendizados.
 
 <div align="center">
